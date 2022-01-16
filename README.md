@@ -1,2 +1,4 @@
-# TD_Andriod_21-22
-Les TDS et TP Andriod
+# TD-TP_Andriod_21-22
+Projet : Binome -OUAHIDI Younes 
+                - BENLEMLIH Ali
+
